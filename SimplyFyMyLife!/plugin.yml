@@ -1,0 +1,19 @@
+name: PlotCreator
+main: shopkeeper.shopkeeper
+version: 1.0
+depend: [WorldGuard]
+description: >
+             THAT ADVANCED PLUGIN.
+commands:
+  simple: 
+    description: Laat de informatie van een plot zien!
+    usage: Just Type It :D
+  ReplaceAll: 
+    description: Voegt iemand toe aan een plot!
+    usage: Just Type It :D
+  FixAllPlots: 
+    description: Voegt iemand toe aan een plot!
+    usage: Just Type It :D
+  RemovePlot: 
+    description: Voegt iemand toe aan een plot!
+    usage: Just Type It :D
